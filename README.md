@@ -1,5 +1,7 @@
 # Astro Movies View Transitions Demo
 
+Fork of <https://github.com/withastro/astro/tree/latest/examples/view-transitions> made static-only.
+
 ### 👉🏽 [Live Demo](https://astro-movies.pages.dev/)
 
 ![Screenshot](./screenshot.png)
